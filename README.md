@@ -1,4 +1,4 @@
-[![Zheyu Huang - Data Scientist, M.S. Applied Data Science, University of Chicago](banner.svg)](https://www.linkedin.com/in/zheyu-huang-67b603321/)
+[![Zheyu Huang - Data Scientist, M.S. Applied Data Science, University of Chicago](zheyu_banner.png)](https://www.linkedin.com/in/zheyu-huang-67b603321/)
 
 ### Data Scientist — M.S. Applied Data Science, University of Chicago | B.S. Data Science, UC Santa Barbara | Ex-Amazon & China Southern Power Grid Data Intern
 
